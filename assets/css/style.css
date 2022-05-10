@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .hero-background {
   width: 100%;
   height: 60vh;
-  background: linear-gradient(-45deg, #641287, #2a5ea8, #641287);
+  background: linear-gradient(-45deg, #500c6d, #3b7edb, #641287);
   background-size: 300% 300%;
   animation: gradient 8s ease infinite;
 }
